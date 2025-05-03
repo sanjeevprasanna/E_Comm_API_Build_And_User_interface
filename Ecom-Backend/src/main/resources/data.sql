@@ -1,0 +1,2 @@
+INSERT INTO Product (name, description, brand, price, category, release_date, product_available, stock_quantity, image_name, image_type, image_date) 
+VALUES ('Laptop', 'High-performance laptop', 'BrandName', 1200.99, 'Electronics', '2023-11-15', true, 10, 'laptop.jpg', 'image/jpeg', null);
