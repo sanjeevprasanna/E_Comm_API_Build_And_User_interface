@@ -1,4 +1,4 @@
-<img width="754" alt="ecom-1" src="https://github.com/user-attachments/assets/040aea0b-6867-47f5-a791-6f3ad2e26881" />
+
 <img width="654" alt="ecom -2" src="https://github.com/user-attachments/assets/6c28a1a1-64dd-4def-973a-3a6ae0d1d114" />
 <img width="635" alt="ecom -3" src="https://github.com/user-attachments/assets/ad0627bc-ea0d-4fa5-a136-40efd1e51095" />
 <img width="636" alt="ecom -4" src="https://github.com/user-attachments/assets/a6e010b4-9e57-46e6-a855-ea7b4caa7055" />
